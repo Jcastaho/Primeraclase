@@ -52,3 +52,10 @@ const numeros = [1, 2, 3, 4, 5];
 numeros.forEach(function(numero) {
     console.log(numero * 2); 
 });
+
+let precioFinal = 5000;
+let dia = "viernes";
+
+dia === "viernes" ? precioFinal -= 1000 : precioFinal += 1000;
+
+console.log(precioFinal)
