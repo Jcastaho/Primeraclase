@@ -53,6 +53,7 @@ numeros.forEach(function(numero) {
     console.log(numero * 2); 
 });
 
+//ternario
 let precioFinal = 5000;
 let dia = "viernes";
 
