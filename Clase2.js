@@ -1,4 +1,4 @@
-//Trabajo en clase 
+//Trabajo en clase  
 
 //Arreglo
 const Usuario = [{name: 'Carlos', ID:11111, edad:40, horaEntrada:8}];
